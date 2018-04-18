@@ -1,0 +1,9 @@
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Domain\bin\Debug\Glbr.Domain.dll
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Domain\bin\Debug\Glbr.Domain.pdb
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Domain\bin\Debug\Glbr.Common.dll
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Domain\bin\Debug\Glbr.Common.pdb
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Domain\obj\Debug\Glbr.Domain.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Domain\obj\Debug\Glbr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Domain\obj\Debug\Glbr.Domain.csproj.CopyComplete
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Domain\obj\Debug\Glbr.Domain.dll
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Domain\obj\Debug\Glbr.Domain.pdb

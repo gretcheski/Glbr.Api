@@ -1,0 +1,9 @@
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Common\bin\Debug\Glbr.Common.dll
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Common\bin\Debug\Glbr.Common.pdb
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Common\obj\Debug\Glbr.Common.Resources.Errors.resources
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Common\obj\Debug\Glbr.Common.Resources.Messages.resources
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Common\obj\Debug\Glbr.Common.csproj.GenerateResource.cache
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Common\obj\Debug\Glbr.Common.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Common\obj\Debug\Glbr.Common.dll
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Common\obj\Debug\Glbr.Common.pdb
+C:\Users\gabriel.retcheski\Source\Repos\SistConvergentes\Glbr.Api\Glbr.Common\obj\Debug\Glbr.Common.csprojResolveAssemblyReference.cache
